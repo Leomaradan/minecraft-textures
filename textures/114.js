@@ -1,4 +1,4 @@
-// 1.13+ textures
+// 1.14+ textures
 
 const Textures = {
   'comment': 'This file is maintained by me. Feel free to use this file, with credit given.',
@@ -725,7 +725,7 @@ const Textures = {
     },
     {
       'readable': 'Smooth Stone Slab',
-      'id': 'minecraft:smooth_stone_slab‌',
+      'id': 'minecraft:smooth_stone_slab',
       'texture': 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAnRSTlMAAHaTzTgAAAEySURBVDhP7VAxisQwDMzHtgikXzC4UBWO2OQDKeLCYNSoPDBbpEnlxqWfeLK14ULY5Y6rb0AGa0YzsrvuH38C0Q/0XkJ4SwcqOadUwmsXErpJYnxFl8xslZRU0kVCK3fTzlW4qks+78LTYp0kY0/tng/JI4RcWouXYHrno90paBHEGFYZLrtwXGWlaepF4DGyKNV+yULndbWT1oMIFoe4bUQ57S27PvNjBoBDgK5KPjcK8lErzbMCrUEdAu8dAx8xBJ6myfK00krBrQmiYwvPBy4xEq/GLBsogLs4bM0BvfMVlp2F14eDNxLBCvSjvSt117U0DOLQdWbkgBrivLHMsIXWuu+7b4wj+sUjOmNBIm5nWiRtE7D8PgX9la6AEXExk7qYn8FBMMPwjq4w5vm9v8cXZQraEGFCDCwAAAAASUVORK5CYII='
     },
     {
@@ -2505,7 +2505,7 @@ const Textures = {
     },
     {
       'readable': 'Oak Sign',
-      'id': 'minecraft:oak_sign‌',
+      'id': 'minecraft:oak_sign',
       'texture': 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEUAAAAhGQs/LQ5BNCFiTSxpVDN8Yj6fhE3A53BfAAAAAXRSTlMAQObYZgAAAFFJREFUKFNjYKAKKEcCodgFlMBsQSUgA4eAoCCIJyioJIhLgLAtQMOUlMAkLgGQoUATgSQuAYK2hCIDrALGyACrABi4uCDY2AXS6CKA7CZUAQD9mFXvHgM2KwAAAABJRU5ErkJggg=='
     },
     {
